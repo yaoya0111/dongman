@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dongman"
+  id="myeclipse.1521733696573"
+  context-root="/dongman"
+  j2ee-spec="5.0"
+  archive="dongman.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
